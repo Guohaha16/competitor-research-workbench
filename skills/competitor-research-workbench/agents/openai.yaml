@@ -1,0 +1,7 @@
+interface:
+  display_name: "竞品研究工作台"
+  short_description: "系统采集竞品证据，梳理功能框架、旅程与方案优先级"
+  brand_color: "#0F766E"
+  default_prompt: "使用 $competitor-research-workbench 调研一个竞品，并把证据、功能框架与用户旅程整理进本地工作台。"
+policy:
+  allow_implicit_invocation: true
