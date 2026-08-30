@@ -1,0 +1,22 @@
+{
+  "schemaVersion": "1.0",
+  "recording": {
+    "competitor": "MiniMax",
+    "recordedAt": "2026-08-30",
+    "status": "stopped_before_observation",
+    "summary": "电脑使用权限未获授权，本次录制在首次界面观察前停止。",
+    "frictions": [
+      {
+        "id": "recording-permission-blocked",
+        "title": "录制权限阻断",
+        "description": "Codex 未获得电脑使用或屏幕录制权限，因此没有观察到 MiniMax 的实际操作流程。",
+        "stage": "录制启动",
+        "severity": "high",
+        "productFriction": false
+      }
+    ]
+  },
+  "features": [],
+  "journey": [],
+  "solution": []
+}
