@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "1.0",
+  "recording": {
+    "competitor": "MiniMax",
+    "task": "生成一段短视频",
+    "status": "stopped_before_observation",
+    "startedAt": null,
+    "stoppedAt": "2026-08-30",
+    "observationScope": "仅观察 MiniMax 短视频生成流程的可见界面与关键状态变化",
+    "summary": "电脑使用权限未获授权，录制在首次界面观察前停止。",
+    "frictionPoints": [
+      {
+        "title": "录制权限阻断",
+        "description": "Codex 未获得电脑使用/屏幕录制权限，因此无法观察 MiniMax 的实际操作流程。",
+        "stage": "录制启动",
+        "evidence": "Computer Use permissions are not granted",
+        "productFriction": false
+      }
+    ],
+    "screenshots": []
+  },
+  "features": [],
+  "journey": [],
+  "solution": []
+}
